@@ -27,12 +27,12 @@ You'll see this window open
 
 Enter cmd in the text bar as shown above and press enter
 
-Once the cmd window is open, enter the location of the file (e.g. `C:\Users\John\Desktop\twspace-dl.exe`), followed by `-i` 
-and the URL of the space you want to download (e.g. `https://twitter.com/i/space/DeadB33F`)
+Once the cmd window is open, enter the location of the file (e.g. `C:\Users\John\Desktop\twspace_dl.exe`), followed by `-i` 
+and the URL of the space you want to download (e.g. `https://twitter.com/i/spaces/DeadB33F`)
 
 Such that the result looks somewhat like this 
 ```
-C:\Users\John\Desktop\twspace-dl.exe -i https://twitter.com/i/space/DeadB33F
+C:\Users\John\Desktop\twspace_dl.exe -i https://twitter.com/i/spaces/DeadB33F
 ```
 
 This should mostly work for ongoing and recorded space
